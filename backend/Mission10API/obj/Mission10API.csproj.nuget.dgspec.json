@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeffr\\Desktop\\Mission10\\backend\\Mission10API\\Mission10API.csproj": {}
+    "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10\\backend\\Mission10API\\Mission10API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeffr\\Desktop\\Mission10\\backend\\Mission10API\\Mission10API.csproj": {
+    "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10\\backend\\Mission10API\\Mission10API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeffr\\Desktop\\Mission10\\backend\\Mission10API\\Mission10API.csproj",
+        "projectUniqueName": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10\\backend\\Mission10API\\Mission10API.csproj",
         "projectName": "Mission10API",
-        "projectPath": "C:\\Users\\jeffr\\Desktop\\Mission10\\backend\\Mission10API\\Mission10API.csproj",
-        "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeffr\\Desktop\\Mission10\\backend\\Mission10API\\obj\\",
+        "projectPath": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10\\backend\\Mission10API\\Mission10API.csproj",
+        "packagesPath": "C:\\Users\\McKay Lush\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\McKay Lush\\Desktop\\IS Jr. Core\\413\\Mission10\\backend\\Mission10API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\McKay Lush\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
